@@ -27,8 +27,6 @@ Explain the **motivation** for making this change. What existing problem does th
 
 If this pull request requires a change to Emulsify documentation, those changes, updates, and/or new information much accompany this pull request.
 
-<!-- Make sure tests pass on both Travis and Circle CI. -->
-
 **Code formatting**
 
 <!-- See the simple style guide. -->
