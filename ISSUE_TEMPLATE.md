@@ -14,7 +14,7 @@ Please search on the issue tracker before creating an issue.
 ## Possible Solution
 
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
-<!--- or ideas how to implement the addition or change -->
+<!--- or ideas how to implement the addition or change. -->
 
 ## Steps to Reproduce (for bugs)
 
