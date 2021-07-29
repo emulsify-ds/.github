@@ -1,5 +1,4 @@
 [
-  { "name": "Priority: Standard", "color": "#eb6420" },
   { "name": "Priority: Critical", "color": "#e11d21" },
   { "name": "Status: Abandoned", "color": "#000000" },
   { "name": "Status: Approved", "color": "#009800" },
