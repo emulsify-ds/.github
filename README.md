@@ -35,7 +35,6 @@ You may use more than one type label at a time.
 
 Use only one priority label at a time. 
 
-- Standard. Most common.
 - Critical. When an issue or PR is important and timely. Use sparingly.
 
 If we find a need for more levels of priority as time goes on, we will add them, but for now we're keeping it simple.
