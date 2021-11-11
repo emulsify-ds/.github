@@ -1,15 +1,11 @@
 [
-  { "name": "Priority: Critical", "color": "#e11d21" },
-  { "name": "Status: Abandoned", "color": "#000000" },
-  { "name": "Status: Approved", "color": "#009800" },
-  { "name": "Status: Blocked", "color": "#e11d21" },
-  { "name": "Status: In Progress", "color": "#cccccc" },
-  { "name": "Status: On Hold", "color": "#e11d21" },
-  { "name": "Status: Review Needed", "color": "#fbca04" },
-  { "name": "Status: Revision Needed", "color": "#e11d21" },
-  { "name": "Status: Wontfix", "color": "#000000" },
-  { "name": "Type: Bug", "color": "#e11d21" },
-  { "name": "Type: Maintenance", "color": "#fbca04" },
-  { "name": "Type: Enhancement", "color": "#84b6eb" },
-  { "name": "Type: Question", "color": "#cc317c" }
+  { "name": "🚧 Work in Progress", "color": "#dedede" },
+  { "name": "👍 Ready for Review", "color": "#F6C40F" },
+  { "name": "👉 Needs Work", "color": "#b60205" },
+  { "name": "❔Question", "color": "#cc317c" },
+  { "name": "🚫 On Hold", "color": "#dedede" },
+  { "name": "🎉 Passes Code Review", "color": "#35aa4e" },
+  { "name": "🎉 Passes Functional Review", "color": "#35aa4e" },
+  { "name": "🪄 Enhancement", "color": "#84b6eb" },
+  { "name": "🐛 Bug", "color": "#84b6eb" }
 ]
