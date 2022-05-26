@@ -1,4 +1,4 @@
-## Hi there 👋
+## Emulsify is an open-source tool for creating design systems with reusable components and clear guidelines for teams.
 
 <!--
 
