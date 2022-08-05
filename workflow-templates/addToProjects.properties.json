@@ -1,4 +1,4 @@
 {
   "name": "Add to Projects",
-  "description": "Octo Organization CI starter workflow."
+  "description": "Workflow that adds Issues and PRs as tasks on the issue board."
 }
