@@ -1,11 +1,51 @@
 [
-  { "name": "🚧 Work in Progress", "color": "#dedede" },
-  { "name": "👍 Ready for Review", "color": "#F6C40F" },
-  { "name": "👉 Needs Work", "color": "#b60205" },
-  { "name": "❔Question", "color": "#cc317c" },
-  { "name": "🚫 On Hold", "color": "#dedede" },
-  { "name": "🎉 Passes Code Review", "color": "#35aa4e" },
-  { "name": "🎉 Passes Functional Review", "color": "#35aa4e" },
-  { "name": "🪄 Enhancement", "color": "#84b6eb" },
-  { "name": "🐛 Bug", "color": "#84b6eb" }
+  {
+    "name": "🚧  Work in Progress",
+    "color": "#dedede",
+    "aliases": ["Work in Progress", "Status: In Progress"]
+  },
+  {
+    "name": "👍  Ready for Review",
+    "color": "#F6C40F",
+    "aliases": [
+      "Needs Review",
+      "Status: Feedback Needed",
+      "Status: Review Needed"
+    ]
+  },
+  {
+    "name": "👉  Needs Work",
+    "color": "#b60205",
+    "aliases": ["Needs Work", "Status: Changes Requested"]
+  },
+  {
+    "name": "❔  Question",
+    "color": "#cc317c",
+    "aliases": ["HELP", "Question", "Type: Help Needed", "Type: Question"]
+  },
+  {
+    "name": "🚫  On Hold",
+    "color": "#dedede",
+    "aliases": ["Blocked", "Status: On Hold"]
+  },
+  {
+    "name": "🎉  Passes Code Review",
+    "color": "#35aa4e",
+    "aliases": ["Passes Code Review", "Status: Passes Code Review"]
+  },
+  {
+    "name": "🎉  Passes Functional Review",
+    "color": "#35aa4e",
+    "aliases": ["Passes Functional Review", "Status: Passes Functional Review"]
+  },
+  {
+    "name": "🪄  Enhancement",
+    "color": "#84b6eb",
+    "aliases": ["enhancement", "Type: Enhancement"]
+  },
+  {
+    "name": "🐛  Bug",
+    "color": "#84b6eb",
+    "aliases": ["Type: Bug"]
+  }
 ]
