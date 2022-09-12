@@ -12,8 +12,8 @@
 ## Important Repositories
 
 - [Emulsify CLI](https://github.com/emulsify-ds/emulsify-cli) is the command line interface for Emulsify.
-- [Emulsify Drupal](https://github.com/emulsify-ds/emulsify-drupal) is a Storybook development + Webpack Build + Drupal theme.
-- [Emulsify WordPress](https://github.com/emulsify-ds/emulsify-wordpress-theme) is the Emulsify WordPress Theme.
+- [Emulsify Drupal](https://github.com/emulsify-ds/emulsify-drupal) is a Drupal theme built with Storybook and Webpack.
+- [Emulsify WordPress](https://github.com/emulsify-ds/emulsify-wordpress-theme) WordPress theme built with Storybook and Webpack
 - [Compound](https://github.com/emulsify-ds/compound) is the default component collection for Emulsify. 
-- [Emulsify UI Kit](https://github.com/emulsify-ds/emulsify-ui-kit) are components that are connected to Figma with Design Tokens.
+- [Emulsify UI Kit](https://github.com/emulsify-ds/emulsify-ui-kit) are components that are connected to Figma using Design Tokens.
 
