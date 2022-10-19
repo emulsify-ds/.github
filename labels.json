@@ -2,7 +2,8 @@
   {
     "name": "🚧  Work in Progress",
     "color": "#dedede",
-    "aliases": ["Work in Progress", "Status: In Progress"]
+    "aliases": ["Work in Progress", "Status: In Progress"],
+    "description": "The PR is a work in progress."
   },
   {
     "name": "👍  Ready for Review",
@@ -11,41 +12,79 @@
       "Needs Review",
       "Status: Feedback Needed",
       "Status: Review Needed"
-    ]
+    ],
+    "description": "Work is ready for review."
   },
   {
     "name": "👉  Needs Work",
     "color": "#b60205",
-    "aliases": ["Needs Work", "Status: Changes Requested"]
+    "aliases": ["Needs Work", "Status: Changes Requested"],
+    "description": "Reviewer has requested changes."
   },
   {
     "name": "❔  Question",
     "color": "#cc317c",
-    "aliases": ["HELP", "Question", "Type: Help Needed", "Type: Question"]
+    "aliases": ["HELP", "Question", "Type: Help Needed", "Type: Question"],
+    "description": "Further information is requested."
   },
   {
     "name": "🚫  On Hold",
     "color": "#dedede",
-    "aliases": ["Blocked", "Status: On Hold"]
+    "aliases": ["Blocked", "Status: On Hold"],
+    "description": ""
   },
   {
     "name": "🎉  Passes Code Review",
     "color": "#35aa4e",
-    "aliases": ["Passes Code Review", "Status: Passes Code Review"]
+    "aliases": ["Passes Code Review", "Status: Passes Code Review"],
+    "description": "Code is approved by the reviewer."
   },
   {
     "name": "🎉  Passes Functional Review",
     "color": "#35aa4e",
-    "aliases": ["Passes Functional Review", "Status: Passes Functional Review"]
+    "aliases": ["Passes Functional Review", "Status: Passes Functional Review"],
+    "description": "Functionality is approved by the reviewer."
+  },
+  {
+    "name": "🎉  Ready to Merge",
+    "color": "#35aa4e",
+    "aliases": ["Ready to Merge", ":shipit: Ship It"],
+    "description": "Functionality is approved by the reviewer."
+  },
+  {
+    "name": "👁 Review in progress",
+    "color": "#1488A2",
+    "aliases": ["Review"],
+    "description": "Under review."
   },
   {
     "name": "🪄  Enhancement",
     "color": "#84b6eb",
-    "aliases": ["enhancement", "Type: Enhancement"]
+    "aliases": ["enhancement", "Type: Enhancement"],
+    "description": "New feature or request."
   },
   {
     "name": "🐛  Bug",
     "color": "#84b6eb",
-    "aliases": ["Type: Bug"]
+    "aliases": ["Type: Bug"],
+    "description": ""
+  },
+  {
+    "name": "dependencies",
+    "color": "#0366d6",
+    "aliases": [],
+    "description": "Pull requests that update a dependency file."
+  },
+  {
+    "name": "released",
+    "color": "#ededed",
+    "aliases": [],
+    "description": ""
+  },
+  {
+    "name": "👉 Good First Issue",
+    "color": "#64E9F0",
+    "aliases": [],
+    "description": "A good issue or PR to start with."
   }
 ]
