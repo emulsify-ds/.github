@@ -8,6 +8,14 @@ This organization makes use of a consistent label system, as outlined below.
 
 We're using [GitHub Label Sync](https://github.com/Financial-Times/github-label-sync) to manage labels.
 
+## How to update labels
+
+1. Create a Github token with the `repo` permissions.
+2. Add the token to `./scripts/update-labels.sh`.
+3. Run `npm run labels` and confirm the dry run is correct.
+4. Remove `--dry-run` from `./scripts/update-labels.sh`.
+5. Run `npm run labels`.
+
 ### Contributors
 
 <table>

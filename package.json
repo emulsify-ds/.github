@@ -1,0 +1,23 @@
+{
+  "name": "emulsify-github",
+  "version": "1.0.0",
+  "description": "## Label System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "labels": "./scripts/update-labels.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emulsify-ds/.github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emulsify-ds/.github/issues"
+  },
+  "homepage": "https://github.com/emulsify-ds/.github#readme",
+  "dependencies": {
+    "github-label-sync": "^2.2.0"
+  }
+}
