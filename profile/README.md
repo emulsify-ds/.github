@@ -16,4 +16,5 @@
 - [Emulsify WordPress](https://github.com/emulsify-ds/emulsify-wordpress-theme) is a WordPress theme built with Storybook and Webpack
 - [Compound](https://github.com/emulsify-ds/compound) is the default component collection for Emulsify. 
 - [Emulsify UI Kit](https://github.com/emulsify-ds/emulsify-ui-kit) are components that are connected to Figma using Design Tokens.
-
+- [Emuslify Twig Extensions](https://github.com/emulsify-ds/emulsify-twig-extensions) is the Twig.js BEM and Add Attributes Extensions
+- [Emulsify Twig](https://github.com/emulsify-ds/emulsify_twig) the Drupal module that provides two Twig extensions used in the Emulsify Design System. 
