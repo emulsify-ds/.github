@@ -35,8 +35,6 @@ Full details are available in [PULL_REQUEST_TEMPLATE.md](./PULL_REQUEST_TEMPLATE
 
 The Emulsify organization is project managed in Github in the [Emulsify Project board](https://github.com/orgs/emulsify-ds/projects/6)
 
-More info TKTK
-
 ### Label guide
 
 * "Bug" - use this to label an issue or pull request when something is broken or working wrong.
