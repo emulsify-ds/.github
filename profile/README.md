@@ -1,4 +1,4 @@
-![Emulsify Design System](../assets/images/header.png)
+![Emulsify Design System](https://github.com/emulsify-ds/.github/blob/6bd435be881bd820bddfa05d88905efe29176a0a/assets/images/header.png)
 
 # Emulsify is an open-source toolset for creating and implementing design systems on your website
 
