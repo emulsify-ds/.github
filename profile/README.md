@@ -1,13 +1,13 @@
 [![Emulsify Design System](https://user-images.githubusercontent.com/409903/170579210-327abcdd-2c98-4922-87bb-36446a4cc013.svg)](https://www.emulsify.info/)
 
-# Emulsify is an open-source tool for creating design systems with reusable components and clear guidelines for teams.
+# Emulsify is an open-source toolset for creating and implementing design systems on your website.
 
 ## Where to start
 
 - [Emulsify.info](https://www.emulsify.info/)
-- [Documentation](https://docs.emulsify.info/)
+- [Documentation](https://emulsify.info/docs)
 - [Community on Slack](https://launchpass.com/emulsify)
-- [Project Board](https://github.com/orgs/emulsify-ds/projects/6) (work in progress)
+- [Project Board](https://github.com/orgs/emulsify-ds/projects/6)
 
 ## Important Repositories
 
