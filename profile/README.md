@@ -19,7 +19,9 @@
 - [Emuslify Twig Extensions](https://github.com/emulsify-ds/emulsify-twig-extensions) is the Twig.js BEM and Add Attributes Extensions
 - [Emulsify Twig](https://github.com/emulsify-ds/emulsify_twig) the Drupal module that provides two Twig extensions used in the Emulsify Design System.
 
-## Stats
+<details>
+
+<summary>Repo Stats</summary>
 
 ### Emulsify CLI
 
@@ -100,3 +102,5 @@
 ![npm](https://img.shields.io/npm/dt/bem-twig-extension?label=NPM%20Downloads%20bem-twig-extension)
 
 ![npm](https://img.shields.io/npm/dt/babel-plugin-drupal-behaviors?label=NPM%20Downloads%20babel-plugin-drupal-behaviors)
+
+</details>
