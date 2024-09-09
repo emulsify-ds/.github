@@ -11,16 +11,27 @@
 
 ## Important Repositories
 
+- [Emulsify Core](https://github.com/emulsify-ds/emulsify-core) is a bundled NPM backage that pre-configured Webpack/Storybook and other tooling to get your project up-and-running fast.
 - [Emulsify CLI](https://github.com/emulsify-ds/emulsify-cli) is the command line interface for Emulsify.
-- [Emulsify Drupal](https://github.com/emulsify-ds/emulsify-drupal) is a Drupal base theme built with Storybook and Webpack.
-- [Emulsify UI Kit](https://github.com/emulsify-ds/emulsify-ui-kit) are components that are connected to Figma using Design Tokens.
-- [Compound](https://github.com/emulsify-ds/compound) is the default component collection for Emulsify.
+- [Emulsify Drupal](https://github.com/emulsify-ds/emulsify-drupal) ADrupal base theme built with Storybook and Webpack.
+- [Emulsify UI Kit](https://github.com/emulsify-ds/emulsify-ui-kit) A component library that has tight integration with Figma via design tokens..
+- [Compound](https://github.com/emulsify-ds/compound) A component library that provides unstyled components which are tested for semantic markup and accessibility.
 - [Emulsify Tools](https://github.com/emulsify-ds/emulsify_tools) the Drupal module that provides useful twig functions and a Drush theme generation command.
 - [Emuslify Twig Extensions](https://github.com/emulsify-ds/emulsify-twig-extensions) is the Twig.js BEM and Add Attributes Extensions
 
 <details>
 
 <summary>Repo Stats</summary>
+
+### Emulsify Core
+
+![GitHub contributors](https://img.shields.io/github/contributors/emulsify-ds/emulsify-core?label=Emulsify%20Core%20contributors)
+
+![GitHub forks](https://img.shields.io/github/forks/emulsify-ds/emulsify-core?label=Emulsify%20Core%20forks)
+
+![GitHub all releases](https://img.shields.io/github/downloads/emulsify-ds/emulsify-core/total?label=Emulsify%20Core%20Github%20downloads)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/emulsify-ds/emulsify-core?label=Emulsify%20Core%20stars)
 
 ### Emulsify CLI
 
@@ -44,8 +55,6 @@
 
 ### Emulsify UI Kit
 
-A component library that has tight integration with Figma via design tokens.
-
 ![GitHub contributors](https://img.shields.io/github/contributors/emulsify-ds/emulsify-ui-kit?label=Emulsify%20UI%20Kit%20contributors)
 
 ![GitHub forks](https://img.shields.io/github/forks/emulsify-ds/emulsify-ui-kit?label=Emulsify%20UI%20Kit%20forks)
@@ -55,8 +64,6 @@ A component library that has tight integration with Figma via design tokens.
 ![GitHub Repo stars](https://img.shields.io/github/stars/emulsify-ds/emulsify-ui-kit?label=Emulsify%20UI%20Kit%20stars)
 
 ### Compound
-
-A component library that provides unstyled components which are tested for semantic markup and accessibility.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/emulsify-ds/compound?label=Emulsify%20Compound%20contributors)
 
@@ -68,13 +75,13 @@ A component library that provides unstyled components which are tested for seman
 
 ### Emulsify Tools
 
-![GitHub contributors](https://img.shields.io/github/contributors/emulsify-ds/emulsify_tools?label=Emulsify%20Twig%20contributors)
+![GitHub contributors](https://img.shields.io/github/contributors/emulsify-ds/emulsify_tools?label=Emulsify%20Tools%20contributors)
 
-![GitHub forks](https://img.shields.io/github/forks/emulsify-ds/emulsify_tools?label=Emulsify%20Twig%20forks)
+![GitHub forks](https://img.shields.io/github/forks/emulsify-ds/emulsify_tools?label=Emulsify%20Tools%20forks)
 
-![GitHub all releases](https://img.shields.io/github/downloads/emulsify-ds/emulsify_tools/total?label=Emulsify%20Twig%20Github%20downloads)
+![GitHub all releases](https://img.shields.io/github/downloads/emulsify-ds/emulsify_tools/total?label=Emulsify%20Tools%20Github%20downloads)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/emulsify-ds/emulsify_tools?label=Emulsify%20Twig%20stars)
+![GitHub Repo stars](https://img.shields.io/github/stars/emulsify-ds/emulsify_tools?label=Emulsify%20Tools%20stars)
 
 ### Emuslify Twig Extensions
 
