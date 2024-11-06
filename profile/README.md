@@ -7,7 +7,6 @@
 - 🌊 [Emulsify.info](https://www.emulsify.info/)
 - ✍️ [Documentation](https://emulsify.info/docs)
 - 💬 [Community on Slack](https://launchpass.com/emulsify)
-- 📈 [Project Board](https://github.com/orgs/emulsify-ds/projects/6)
 
 ## Important Repositories
 
@@ -15,7 +14,6 @@
 - [Emulsify CLI](https://github.com/emulsify-ds/emulsify-cli) is the command line interface for Emulsify.
 - [Emulsify Drupal](https://github.com/emulsify-ds/emulsify-drupal) is Drupal base theme built with Storybook and Webpack.
 - [Emulsify UI Kit](https://github.com/emulsify-ds/emulsify-ui-kit) is a component library that has tight integration with Figma via design tokens. Each component is styled and tested for semantic markup and accessibility.
-- [Compound](https://github.com/emulsify-ds/compound) is a component library that provides unstyled components that are tested for semantic markup and accessibility.
 - [Emulsify Tools](https://github.com/emulsify-ds/emulsify_tools) the Drupal module that provides useful twig functions and a Drush theme generation command.
 - [Emuslify Twig Extensions](https://github.com/emulsify-ds/emulsify-twig-extensions) is the Twig.js BEM and Add Attributes Extensions
 
