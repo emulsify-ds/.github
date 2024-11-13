@@ -6,7 +6,7 @@
 
 - 🌊 [Emulsify.info](https://www.emulsify.info/)
 - ✍️ [Documentation](https://emulsify.info/docs)
-- 💬 [Community on Slack](https://launchpass.com/emulsify)
+- 💬 [Community on Slack](https://join.slack.com/t/emulsify/shared_invite/zt-1ujfwwcvr-ynvUPkEgWYuaby~wPaHt8g)
 
 ## Important Repositories
 
