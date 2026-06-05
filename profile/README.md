@@ -15,7 +15,6 @@
 - [Emulsify Drupal](https://github.com/emulsify-ds/emulsify-drupal) is Drupal base theme built with Storybook and Webpack.
 - [Emulsify UI Kit](https://github.com/emulsify-ds/emulsify-ui-kit) is a component library that has tight integration with Figma via design tokens. Each component is styled and tested for semantic markup and accessibility.
 - [Emulsify Tools](https://github.com/emulsify-ds/emulsify_tools) the Drupal module that provides useful twig functions and a Drush theme generation command.
-- [Emuslify Twig Extensions](https://github.com/emulsify-ds/emulsify-twig-extensions) is the Twig.js BEM and Add Attributes Extensions
 
 <details>
 
@@ -80,16 +79,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/emulsify-ds/emulsify_tools/total?label=Emulsify%20Tools%20Github%20downloads)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/emulsify-ds/emulsify_tools?label=Emulsify%20Tools%20stars)
-
-### Emuslify Twig Extensions
-
-![GitHub contributors](https://img.shields.io/github/contributors/emulsify-ds/emulsify-twig-extensions?label=Emulsify%20Twig%20Extensions%20contributors)
-
-![GitHub forks](https://img.shields.io/github/forks/emulsify-ds/emulsify-twig-extensions?label=Emulsify%20Twig%20Extensions%20forks)
-
-![GitHub all releases](https://img.shields.io/github/downloads/emulsify-ds/emulsify-twig-extensions/total?label=Emulsify%20Twig%20Extensions%20Github%20downloads)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/emulsify-ds/emulsify-twig-extensions?label=Emulsify%20Twig%20Extensions%20stars)
 
 ### NPM package downloads
 
